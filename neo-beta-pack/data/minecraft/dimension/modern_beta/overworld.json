@@ -2,10 +2,10 @@
   "type": "modern_beta:betaworld",
   "generator": {
     "type": "minecraft:noise",
-    "seed": 98765321,
+    "seed": 24535473456,
     "biome_source": {
       "type": "minecraft:multi_noise",
-      "seed": 98765321,
+      "seed": 24535473456,
       "biomes": [
         {
           "biome": "modern_beta:forest",
@@ -188,17 +188,6 @@
           }
         },
 		{
-          "biome": "modern_beta:beach",
-          "parameters": {
-            "temperature": 1.0,
-            "humidity": 0.7,
-            "altitude": 0.0,
-            "weirdness": 0.0,
-            "offset": 0.2
-          }
-        },
-		
-		{
           "biome": "modern_beta:frozen_ocean",
           "parameters": {
             "temperature": -1.0,
@@ -301,11 +290,11 @@
 		{
           "biome": "modern_beta:mushroom_fields",
           "parameters": {
-            "temperature": 0.9,
-            "humidity": 0,
+            "temperature": 1.0,
+            "humidity": 0.7,
             "altitude": 0.0,
             "weirdness": 0.0,
-            "offset": 0.5
+            "offset": 0.1
           }
         }
       ]
