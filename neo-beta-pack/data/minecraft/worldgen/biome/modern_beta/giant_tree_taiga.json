@@ -164,7 +164,8 @@
       "minecraft:patch_pumpkin",
       "minecraft:spring_water",
       "minecraft:spring_lava",
-      "minecraft:patch_berry_sparse"
+      "minecraft:patch_berry_sparse",
+	  "minecraft:seagrass_normal"
     ],
     [
       "minecraft:freeze_top_layer"

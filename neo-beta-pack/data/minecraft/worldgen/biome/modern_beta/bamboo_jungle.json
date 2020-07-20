@@ -167,7 +167,8 @@
       "minecraft:spring_water",
       "minecraft:spring_lava",
       "minecraft:patch_melon",
-      "minecraft:vines"
+      "minecraft:vines",
+	  "minecraft:seagrass_river"
     ],
     [
       "minecraft:freeze_top_layer"
