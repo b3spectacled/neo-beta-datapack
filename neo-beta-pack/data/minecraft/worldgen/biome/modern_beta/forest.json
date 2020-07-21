@@ -2,7 +2,8 @@
   "starts": [
     "minecraft:mineshaft",
     "minecraft:stronghold",
-    "minecraft:ruined_portal"
+    "minecraft:ruined_portal",
+	"minecraft:buried_treasure"
   ],
   "spawners": {
     "monster": [
