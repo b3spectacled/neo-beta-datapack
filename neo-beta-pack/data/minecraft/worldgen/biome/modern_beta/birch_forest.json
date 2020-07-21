@@ -131,8 +131,9 @@
     ],
     [],
     [
+	  "modern_beta:birch_birch_forest",
+	  "modern_beta:birch_tall",
       "minecraft:forest_flower_vegetation",
-      "minecraft:trees_birch",
       "minecraft:flower_default",
       "minecraft:patch_grass_forest",
       "minecraft:brown_mushroom_normal",

@@ -137,8 +137,10 @@
     ],
     [],
     [
+	  "modern_beta:oak_forest",
+	  "modern_beta:birch",
+	  "modern_beta:fancy_oak",
       "minecraft:forest_flower_vegetation",
-      "minecraft:birch_other",
       "minecraft:flower_default",
       "minecraft:patch_grass_forest",
       "minecraft:brown_mushroom_normal",
